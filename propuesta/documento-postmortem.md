@@ -1,4 +1,34 @@
-## Impacto
+
+# 2. Linea del tiempo (timeline) Incidente de Sincronización de Base de Datos
+**Proyecto:** Sistema de Automatización de Pedidos - Empresa de Grama Importada  
+**Fecha del Incidente:** 21 de abril de 2026  
+**Fecha del Reporte:** 22 de abril de 2026  
+**Equipo Responsable:** Estudiantes Ingeniería USAC  
+**Estado:** Finalizado / Lecciones Aprendidas
+
+---
+
+## Resumen del Incidente
+El 21 de abril, tras el despliegue del nuevo módulo de automatización de procesos, se detectó una anomalía crítica en la integridad de los datos. El sistema realizó asignaciones erróneas de productos, entregando "Grama Premium" (importada) en lugar de "Grama Bermuda". 
+
+Adicionalmente, el **30% de las rutas de instalación** fueron generadas utilizando registros de la base de datos de prueba (*tablas espejo*), lo que derivó en errores de logística y pérdida de recursos en campo.
+
+## Registro Cronológico (Timeline)
+
+| Hora | Evento | Descripción |
+| :--- | :--- | :--- |
+| **08:00 AM** |  Despliegue | Se inicia la actualización del módulo de base de datos en el servidor de producción. |
+| **08:15 AM** |  Confirmación | El sistema de integración continua marca el despliegue como "Exitoso". |
+| **09:30 AM** |  Primer Reporte | Logística reporta un cliente inconforme: entrega de producto incorrecto en sitio. |
+| **10:05 AM** | Crisis Logística | Se reciben 5 reportes simultáneos de cuadrillas perdidas por direcciones inexistentes. |
+| **10:20 AM** |  **Momento Crítico** | Desarrollo identifica que el script lee la **tabla espejo** (pruebas) y no la **tabla maestra** (producción). |
+| **10:45 AM** |  Contención | Se apaga el servidor de sincronización para evitar que se sigan corrompiendo pedidos. |
+| **11:30 AM** |  Recuperación | Se ejecuta el *rollback* total a la versión previa estable de la base de datos. |
+| **12:00 PM** |  Estabilización | Operación restablecida manualmente y validación de datos maestros exitosa. |
+
+---
+
+## 3. Impacto
 
 Una deficiente organización en la distribución de tareas dentro del equipo de desarrollo genera un impacto directo en el avance del proyecto. La falta de una planificación adecuada puede provocar desbalance en la carga de trabajo, duplicación de esfuerzos o retrasos en la implementación de módulos clave.
 
