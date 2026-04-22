@@ -1,5 +1,8 @@
 # Elevator Pitch
 
+[Ibolya Orsolya David Cadenas](https://youtu.be/2bhqvL8xKX8?si=T4y46NPoatcxJCo_)
+> **Descripción:** Se detalla la idea de implementar un banco de trabajadores en el sistema para resolver la problemática en la gestión de mano de obra.
+
 
 [Schneyder Anderson Emmanuel Esquit Xico](https://youtu.be/5NaSw1dOFC4)
 > **Descripción:** Se habla sobre implementar un Enlace directo (software) con el Cliente-Administrador y Personal-Adminsitrador.
