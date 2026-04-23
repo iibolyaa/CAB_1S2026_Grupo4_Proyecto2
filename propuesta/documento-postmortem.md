@@ -97,12 +97,12 @@ Para identificar el origen del incidente en la gestión de proyectos de grama si
 **Conclusión del Análisis:**
 El incidente no fue un error humano aislado, sino una consecuencia inevitable de la desconexión sistémica. La falta de una plataforma centralizada de gestión profesional impide que las áreas críticas del negocio (como la colocación de grama y el manejo de precios) se comuniquen, resultando en ineficiencias operativas y pérdida de control sobre la rentabilidad del proyecto.
  
-## Acciones tomadas para solucionarlo
+## 5. Acciones tomadas para solucionarlo
 Durante el incidente, el equipo tomó medidas inmediatas para reducir el impacto generado por la falta de sincronización entre las áreas del negocio. Como primer acción, se decidió suspender temporalmente la generación automática de órdenes y facturación, con el objetivo de evitar la propagación de errores en los datos.
 Posteriormente, se optó por implementar un control manual provisional, en el cual se verificaba la disponibildad de invetario de rollos grama y la asignación del personal antes de confirmar pedido o proyecto. De manera simultanea, el equipo técnico realizó una revisión de los archivos loclaes utilizados por cada área, con el fin de identificar inconsistencias en la información y unificar los datos más relevantes en un solo registro temporal.
 Asimismo, se estableció una comunicación directa entre las áreas involucradas (inventario, facturación y asignación de personal), permitiendo coordinar las actividades de forma más controlada mientras se solucionaba el problema. Finalmente, una vez corregidas las inconsistencias más críticas, se validó la información actualizada y se reanudó el flujo de trabajo, asegurando que las operaciones continuaran de manera más ordenada hasta la implementación de una solución definitiva.
 
-## Acciones a futuro
+## 6. Acciones a futuro
 Las acciones que se tomaran en el futuro a base de las conclusiones finales de la reunión, se basa em seguir con el plan original de la creación del sistema ya con las ideas más ordenadas. Al finalizar la implementación del programa se seguira actualizando para terminar de implementar cualquier aspecto a mejorar, tomando en cuenta los comentarios de los clientes y los errores que podrían presentarse a lo largo de el uso.
 
 Ademas de ello, se estará convocando a diferentes reuniones para el correcto seguimiento del proyecto, asi se podrá compartir el avance y se resolvera dudas que se podrían generar al lo largo del tiempo, por ultimo se tendrá una comunicación con el cliente por cualquier modificación, de parte del equipo o del cliente.
