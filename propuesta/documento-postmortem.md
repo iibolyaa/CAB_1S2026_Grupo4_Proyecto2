@@ -1,3 +1,27 @@
+# 1. Resumen del incidente
+Durante la reunión con el cliente, una empresa dedicada a la instalación de grama sintética, se identificaron problemas operativos relacionados con la gestión de materiales, inventario y coordinación de proyectos.
+El cliente explicó que todos los materiales son importados desde Estados Unidos y se manejan por lotes. Cada lote puede presentar variaciones de color, por lo que no es posible mezclar materiales entre pedidos. Esto implica que una mala asignación de inventario puede afectar directamente la calidad final del proyecto.
+En este contexto, uno de los principales riesgos operativos es la asignación incorrecta de productos, ya que utilizar un tipo de grama diferente (por ejemplo, “Grama Premium” en lugar de “Grama Bermuda”) o mezclar lotes distintos genera inconsistencias visibles y reclamos por parte del cliente.
+Asimismo, la empresa no cuenta con un sistema centralizado para gestionar inventario, pedidos y cotizaciones, lo que provoca que la información se maneje de forma separada y manual.
+
+---
+
+## Relación con el Incidente y Línea del Tiempo
+El incidente presentado en la línea del tiempo refleja directamente esta problemática.
+Durante el despliegue del sistema, no se detectaron errores en la asignación de productos. Sin embargo, posteriormente se identificó que el sistema estaba utilizando datos incorrectos, lo que provocó la asignación errónea de tipos de grama y la generación de rutas inválidas.
+Esto se traduce en situaciones reales del negocio, donde una mala gestión del inventario o el uso de información incorrecta puede provocar:
+Entrega de productos equivocados
+Diferencias en tonos de grama
+Pérdidas económicas y retrabajo
+El uso de tablas incorrectas (datos de prueba en lugar de producción) representa la falta de control y validación en la información, equivalente a trabajar con registros no actualizados o inconsistentes en la operación diaria.
+
+---
+ 
+## Conclusión
+La problemática del cliente radica en la falta de control sobre la información crítica del negocio, especialmente en la gestión de inventario y asignación de productos.
+Esto refuerza la necesidad de implementar un sistema centralizado que permita validar correctamente los datos, asegurar la correcta asignación de materiales y evitar errores como los presentados en el incidente.
+
+---
 
 # 2. Linea del tiempo (timeline) Incidente de Sincronización de Base de Datos
 **Proyecto:** Sistema de Automatización de Pedidos - Empresa de Grama Importada  
