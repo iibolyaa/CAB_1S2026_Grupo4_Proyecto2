@@ -16,3 +16,6 @@
 
 [Luis Emilio Arias Santizo](https://www.youtube.com/watch?v=ldi7LxiKW5w)
 > **Descripción** Se habla sobre la realizacion e implementacion de una app tipo catalogo que ayude con las cotizaciones y los registros de ventas para llevar su respectivo control
+
+[Miguel Antonio Cancax Machán](https://youtu.be/NyIl_k2Pv_o?t=24s)
+> **Descripción** Se propone una posible solución al problema de la empresa, un software que podra gestionar los comentario y criticas de clientes, ademas de poder tener contacto con los trabajadores.
