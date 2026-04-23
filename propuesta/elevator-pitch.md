@@ -13,3 +13,6 @@
 
 [Daniela Odeth Velásquez Solís](https://youtu.be/9ntg8tmJQsk) 
 > **Descripción** Se plantea la idea de un sistema de quejas ordenadas por cliente y categoria para reducir el tiempo dedicado a esta tarea y la carga laboral. Además de atender de manera personalizada a todos los clientes. 
+
+[Luis Emilio Arias Santizo](https://www.youtube.com/watch?v=ldi7LxiKW5w)
+> **Descripción** Se habla sobre la realizacion e implementacion de una app tipo catalogo que ayude con las cotizaciones y los registros de ventas para llevar su respectivo control
