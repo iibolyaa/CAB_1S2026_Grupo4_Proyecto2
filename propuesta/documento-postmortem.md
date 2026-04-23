@@ -104,4 +104,5 @@ Asimismo, se estableció una comunicación directa entre las áreas involucradas
 
 ## Acciones a futuro
 Las acciones que se tomaran en el futuro a base de las conclusiones finales de la reunión, se basa em seguir con el plan original de la creación del sistema ya con las ideas más ordenadas. Al finalizar la implementación del programa se seguira actualizando para terminar de implementar cualquier aspecto a mejorar, tomando en cuenta los comentarios de los clientes y los errores que podrían presentarse a lo largo de el uso.
+
 Ademas de ello, se estará convocando a diferentes reuniones para el correcto seguimiento del proyecto, asi se podrá compartir el avance y se resolvera dudas que se podrían generar al lo largo del tiempo, por ultimo se tendrá una comunicación con el cliente por cualquier modificación, de parte del equipo o del cliente.
