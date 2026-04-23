@@ -1,6 +1,6 @@
 # Elevator Pitch
 
-[Ibolya Orsolya David Cadenas](https://youtu.be/2bhqvL8xKX8?si=T4y46NPoatcxJCo_)
+[Ibolya Orsolya David Cadenas](https://youtu.be/LAK_SGZByxw?si=h33c__OZYKfijjgP)
 > **Descripción:** Se detalla la idea de implementar un banco de trabajadores en el sistema para resolver la problemática en la gestión de mano de obra.
 
 
