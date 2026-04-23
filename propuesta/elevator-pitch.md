@@ -10,3 +10,6 @@
 
 [Yosselin Aracely Oxlaj González](https://youtu.be/2bhqvL8xKX8?si=T4y46NPoatcxJCo_)
 > **Descripción:** Se propone un sistema centralizado que permita compartir la información en tiempo real en diferentes áreas, especificamente en el registro de los clientes y poder visualizar su información.
+
+[Daniela Odeth Velásquez Solís](https://youtu.be/9ntg8tmJQsk) 
+> **Descripción** Se plantea la idea de un sistema de quejas ordenadas por cliente y categoria para reducir el tiempo dedicado a esta tarea y la carga laboral. Además de atender de manera personalizada a todos los clientes. 
